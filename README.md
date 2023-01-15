@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashura707
+- 👋 Hi, My name is Rohit Mishra
 - 👀 I’m interested in Web dev and app development
 - 🌱 I’m currently learning flutter and web dev
 - 📫 How to reach me - rohitcr7mishra@gmail.com
