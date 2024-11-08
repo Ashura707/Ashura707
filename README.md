@@ -5,7 +5,7 @@
 💡 Currently building innovative solutions in AI and web development<br/>
 🚀 Interests: Software Development (Frontend & Backend) and Competitive Programming & Problem Solving<br/>
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Ashura707&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://https://github-readme-stats-nu-roan-72.vercel.app//api?username=Ashura707&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 # 💻 Tech Stack
