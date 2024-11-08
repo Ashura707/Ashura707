@@ -6,7 +6,7 @@
 🚀 Interests: Software Development (Frontend & Backend) and Competitive Programming & Problem Solving<br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats-7p19.vercel.app/api?username=Ashura707&show_icons=true&theme=radical)<br/>
+![Rohit's GitHub stats](https://github-readme-stats-vert-five.vercel.app/api?username=Ashura707&show_icons=true&theme=radical)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
