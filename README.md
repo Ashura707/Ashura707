@@ -6,7 +6,7 @@
 🚀 Interests: Software Development (Frontend & Backend) and Competitive Programming & Problem Solving<br/>
 
 
-![Rohit's GitHub stats](https://github-readme-stats-vert-five.vercel.app/api?username=Ashura707&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&token=GH_SECRET)<br/>
+![Rohit's GitHub stats](https://github-readme-stats-vert-five.vercel.app/api?username=Ashura707&show_icons=true&theme=radical&show=reviews,prs_merged&theme=tokyonight&token=GH_SECRET)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
