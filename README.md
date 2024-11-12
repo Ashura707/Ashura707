@@ -7,6 +7,7 @@
 
 
 ![Rohit's GitHub stats](https://github-readme-stats-vert-five.vercel.app/api?username=Ashura707&show_icons=true&theme=radical&show=prs_merged&theme=tokyonight&token=GH_SECRET)<br/>
+![Top Langs](https://github-readme-stats-vert-five.vercel.app/api/top-langs/?username=Ashura707&size_weight=0.5&count_weight=0.5)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
